@@ -60,3 +60,6 @@ overhead. The software even generates clean PDFs that can be printed out easily 
 ## 📜 Disclaimer
   
 _This software is made for a very neiche purpose, it is not intended for general commercial use. But everyone is welcome to come and try it._
+
+---
+_Developed with ❤️ by [SamDonjerous1](https://github.com/SamDonjerous1)_
