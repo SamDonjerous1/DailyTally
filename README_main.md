@@ -1,8 +1,7 @@
 Thank you for using the software.
 This is a self made accounting software that handles dealers and saree list and also the import/export details and payment details.
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-**WHAT IT DOES**
 
+## ✨ What It Does
 The software is made under a personal request from someone i know who owns a small saree printing business and requested me to somehow transfer the accounting and data logging to the computer. Thus is the birth of this software. 
 
 The business involes some dealers that send saree to the business owner for printing purpose. After the work is done, the sarees are shipped back and appropiate charges are allocated against the order that the dealer have to pay. 
@@ -10,8 +9,16 @@ Every 6 months, a sheet is exchanged between two parties to tally if the number 
 
 Here the software comes into play by reducing the workload to more than 70% by automating all the tedious hand done calculations and entries to doing everything just in a few clicks. All the calculations and checkings are automatic. No more
 overhead. The software even generates clean PDFs that can be printed out easily and given to the respective dealer.
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-**HOW TO USE**
+
+| Task | Manual | DailyTally |
+|------|--------|------------|
+| Track sarees sent in & out | Paper logs | One‑click entry |
+| Calculate outstanding pieces | Hand math | Auto‑calculated |
+| Record payments & dues | Hand math | Integrated ledger |
+| Reconcile 6‑month tallies | Tedious check | PDF summary |
+| Print shareable reports | Hand drawn tables | Auto‑generated PDF |
+
+## 🚀 How to Use
 
 1. In the first page, we can create new project or open already existing project. Quite self-explainatory.
 
@@ -43,7 +50,13 @@ ________________________________________________________________________________
      4. Print will generate the PDFs. Once done it will show a prompt saying "PDFs saved"
      5. The Show folder will open the folder where the PDFs are saved.
   
-  ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-  **DISCLAMER**
+## ⚙️ Tech Stack
+
+- **Frontend:** WPF (.NET /C#)  
+- **Database:** SQLlite  
+- **Packaging:** Stand‑alone Windows executable  
+- **IDE:** Visual Studio 2022
+
+## 📜 Disclaimer
   
-  _This software is made for a very neiche purpose, it is not intended for general commercial use. But everyone is welcome to come and try it._
+_This software is made for a very neiche purpose, it is not intended for general commercial use. But everyone is welcome to come and try it._
